@@ -1,6 +1,3 @@
-# SAMP-Mobile by x1y2z
-I have released some universal apk for everyone!
-
 # ABOUT MY CHANNEL
 
 Link: https://youtube.com/c/x1y2z
