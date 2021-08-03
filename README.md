@@ -22,7 +22,6 @@ Example:
 ```
 public OnPlayerConnect(playerid)
 {
-	GameTextForPlayer(playerid,"~w~SA-MP: ~r~Bare Script",5000,5);
 	if(bIsFromMobile[playerid]) SendClientMessage(playerid, -1, "from mobile");
 	else SendClientMessage(playerid, -1, "not from mobile");
 	return 1;
