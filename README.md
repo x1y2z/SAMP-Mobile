@@ -12,3 +12,7 @@ The newest apk: https://www.youtube.com/watch?v=BSkQCAeybrg&t=3s
 # ABOUT MY APK
 
 They are very stable, high fps for 4+ android devices, no fc, no bugs.
+
+# MORE
+
+Subscribe to see new updates: https://youtube.com/c/x1y2z
