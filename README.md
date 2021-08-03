@@ -19,7 +19,8 @@ v0.1:               https://youtu.be/Iv5RmLED7x8
 Here is client.inc, which is for gamemode. You can see, is your player from mobile or no.
 
 Example:
-```public OnPlayerConnect(playerid)
+```
+public OnPlayerConnect(playerid)
 {
 	GameTextForPlayer(playerid,"~w~SA-MP: ~r~Bare Script",5000,5);
 	if(bIsFromMobile[playerid]) SendClientMessage(playerid, -1, "from mobile");
